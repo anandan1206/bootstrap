@@ -1,0 +1,36 @@
+/* .button {
+    background-color: yellow;
+    border: none;
+    color:aliceblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+} */
+.container {
+    background-color: bisque;
+    width: 20px;
+}
+.container-fluid{
+    background-color:brown;
+    width: 20;
+}
+
+.container-sm{
+    background-color: coral;
+
+}
+.container-md{
+    background-color: cadetblue;
+}
+.container-lg{
+    background-color: crimson;
+}
+.container-xl{
+    background-color: darkkhaki;
+}
+.container-xxl{
+    background-color: tomato;
+}
+
